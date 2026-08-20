@@ -110,8 +110,7 @@
 
 ### 2. Installation
 ```powershell
-# Clone repository
-git clone https://github.com/your-username/Gemini-Windows-Computer-Use.git
+# Download from release
 cd Gemini-Windows-Computer-Use
 
 # Create virtual environment
