@@ -26,7 +26,7 @@
 
 ---
 
-## 🌟 Key Innovations
+## Key Innovations
 
 ```
 ┌─────────────────────────────────────────────────────────────────────────────────────────┐
@@ -85,7 +85,7 @@
 
 ---
 
-## 🆚 Comparison with Other Tools
+## Comparison with Other Tools
 
 | Feature | **Gemini Windows Agent** (This Project) | **Anthropic Computer Use** | **Open-Interpreter** | **Microsoft UFO / ShowUI** |
 | :--- | :---: | :---: | :---: | :---: |
@@ -102,7 +102,7 @@
 
 ---
 
-## 🚀 Quickstart
+## Quickstart
 
 ### 1. Prerequisites
 * **OS**: Windows 10 or Windows 11 (64-bit).
@@ -143,7 +143,7 @@ python run.py --mode human --effort ultra --theme tokyonight
 
 ---
 
-## 🌐 Multi-Backend LLM Suite
+## Multi-Backend LLM Suite
 
 Switch providers seamlessly at runtime by typing `/api` in the prompt:
 
@@ -166,7 +166,7 @@ python run.py --api-provider ollama --base-url http://localhost:11434/v1 --ollam
 
 ---
 
-## ⚡ Interactive Slash Commands
+## Interactive Slash Commands
 
 Type these directly into the `✦ >> Enter prompt:` CLI at any time:
 
@@ -194,7 +194,7 @@ Type these directly into the `✦ >> Enter prompt:` CLI at any time:
 
 ---
 
-## 🧪 Testing & Verification
+## Testing & Verification
 
 Run the automated test suite covering all tools, safety filters, theme palettes, and agent mock loops:
 
@@ -204,7 +204,7 @@ python -m unittest discover -s tests
 
 ---
 
-## 📄 License & Open Source
+## License & Open Source
 
 This project is licensed under the **Apache 2.0**. You are free to use, modify, distribute, and integrate this software into personal and commercial projects.
 
