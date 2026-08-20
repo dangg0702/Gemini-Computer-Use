@@ -206,7 +206,7 @@ python -m unittest discover -s tests
 
 ## 📄 License & Open Source
 
-This project is licensed under the **[MIT License](LICENSE)** (or **Apache 2.0** upon request). You are free to use, modify, distribute, and integrate this software into personal and commercial projects.
+This project is licensed under the **Apache 2.0**. You are free to use, modify, distribute, and integrate this software into personal and commercial projects.
 
 ---
 
